@@ -14,7 +14,9 @@ Run the Python example:
 ```sh
 python run-model-through-grpc4bmi.py
 ```
-It'll produce output in the terminal.
+It'll produce output in the terminal,
+as well as two image files,
+`shoreline_initial.png` and `shoreline_final.png`.
 
 Start JupyterLab and run the example notebook:
 ```sh
